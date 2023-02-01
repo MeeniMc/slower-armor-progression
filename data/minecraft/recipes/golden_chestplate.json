@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Y": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "item": "minecraft:golden_chestplate"
+  }
+}

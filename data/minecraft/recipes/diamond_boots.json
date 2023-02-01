@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "X X"
+  ],
+  "result": {
+    "item": "minecraft:diamond_boots"
+  }
+}
