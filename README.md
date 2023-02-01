@@ -14,4 +14,4 @@ Once this datapack is installed crafting any tier of armor(except Netherite) req
 
 ## Additional Information
 
-Any corresponding leather armor piece can be used, even if it's enchanted, dyed or otherwise altered.
+Any corresponding leather armor piece can be used, whether it's enchanted, dyed or otherwise altered.
