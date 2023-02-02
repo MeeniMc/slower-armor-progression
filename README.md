@@ -1,10 +1,10 @@
 # Slower Armor Progression
 
-Concept originally suggested by [u/ThirdWorlfBoy21 on r/minecraftsuggestions](https://www.reddit.com/r/minecraftsuggestions/comments/10ntllr/making_leather_armor_useful/?utm_source=share&utm_medium=ios_app&utm_name=iossmf); Datapack created by Havio
+Concept originally suggested by [u/ThirdWorldBoy21 on r/minecraftsuggestions](https://www.reddit.com/r/minecraftsuggestions/comments/10ntllr/making_leather_armor_useful/?utm_source=share&utm_medium=ios_app&utm_name=iossmf); Datapack created by Havio
 
 ## Backstory
 
-The concept of this datapack originates from [this post](https://www.reddit.com/r/minecraftsuggestions/comments/10ntllr/making_leather_armor_useful/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) on Reddit. The purpose of it was to expand the gameplay loop for crafting armor and grant leather armor an additional use. I quite liked the idea so I asked the original poster for permission to create and upload their idea in the form of a datapack and was granted such.
+The concept of this datapack originates from [this post](https://www.reddit.com/r/minecraftsuggestions/comments/10ntllr/making_leather_armor_useful/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) on Reddit. The purpose of it was to extend the gameplay loop for crafting armor and grant leather armor an additional use. I quite liked the idea so I asked the original poster for permission to create and upload their idea in the form of a datapack and was granted such.
 
 # What's Included?
 
