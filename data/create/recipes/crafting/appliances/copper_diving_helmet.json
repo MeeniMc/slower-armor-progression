@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "P": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Y": {
+      "item": "minecraft:leather_helmet"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PYP",
+    " G "
+  ],
+  "result": {
+    "item": "create:copper_diving_helmet"
+  },
+  "show_notification": true
+}
