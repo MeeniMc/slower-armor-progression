@@ -3,17 +3,15 @@
   "category": "equipment",
   "key": {
     "X": {
-      "item": "minecraft:scute"
-    },
-    "Y": {
-      "item": "minecraft:leather_helmet"
+      "item": "create:iron_sheet"
     }
   },
   "pattern": [
+    "X X",
     "XXX",
-    "XYX"
+    "XXX"
   ],
   "result": {
-    "item": "minecraft:turtle_helmet"
+    "item": "minecraft:chainmail_chestplate"
   }
 }

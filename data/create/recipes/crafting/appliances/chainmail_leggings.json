@@ -3,17 +3,15 @@
   "category": "equipment",
   "key": {
     "X": {
-      "item": "minecraft:gold_ingot"
-    },
-    "Y": {
-      "item": "minecraft:leather_boots"
+      "item": "create:iron_sheet"
     }
   },
   "pattern": [
-    "XYX",
+    "XXX",
+    "X X",
     "X X"
   ],
   "result": {
-    "item": "minecraft:golden_boots"
+    "item": "minecraft:chainmail_leggings"
   }
 }
