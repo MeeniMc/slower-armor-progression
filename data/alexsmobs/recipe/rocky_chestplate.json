@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SYS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "alexsmobs:rocky_shell"
+    },
+    "Y": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "result": {
+    "id": "alexsmobs:rocky_chestplate",
+    "count": 1
+  }
+}

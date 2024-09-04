@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "create:andesite_alloy"
+    },
+    "P": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Y": {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "pattern": [
+    "PYP",
+    "P P",
+    "G G"
+  ],
+  "result": {
+    "id": "create:copper_diving_boots"
+  },
+  "show_notification": true
+}
