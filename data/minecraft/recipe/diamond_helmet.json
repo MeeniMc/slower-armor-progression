@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "minecraft:leather_helmet"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XYX"
+  ],
+  "result": {
+    "id": "minecraft:diamond_helmet"
+  }
+}

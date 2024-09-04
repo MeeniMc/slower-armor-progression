@@ -1,6 +1,7 @@
 {
     "pack": {
         "pack_format": 10,
-        "description": "Concept originally suggested by u/ThirdWorldBoy21 on r/minecraftsuggestions; Datapack created by Havio@Modrinth"
+        "supported_formats": {"min_inclusive": 10, "max_inclusive": 48},
+        "description": "Concept originally suggested by u/ThirdWorldBoy21 on r/minecraftsuggestions; Datapack created by Havio@Modrinth; 1.21 update by meenimc@Modrinth"
     }
 }
